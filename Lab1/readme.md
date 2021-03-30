@@ -1,7 +1,7 @@
 # aplikacje-mobilne-21716-185IC Lab1 - kalkulator
 
 ## kod programu
-![Alt Text](pliki\obraz.png)
+![Alt Text](pliki/obraz.png)
 
 ### 1) Flatlist wyrenderuje liste, w tym przypadku będą to przyciski poukładane 4 w wieru i 4 w kolumnie.
 
@@ -12,4 +12,4 @@
 ### 4) Podczas wciskania przycisków na bierząco są wyświetlane aktualne dane.
 
 ## przykład działania programu
-![Alt Text](pliki\ruchome_obrazki.gif)
+![Alt Text](pliki/ruchome_obrazki.gif)
