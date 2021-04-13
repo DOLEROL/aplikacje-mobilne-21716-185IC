@@ -21,7 +21,7 @@
 ![Alt Text](pliki/obr6.png)
 
 ## przykład działania programu
-![Alt Text](pliki/obr7.png)
+![Alt Text](pliki/obr7.png ){:height="700px" width="400px"}
 
 ![Alt Text](pliki/obr8.png)
 
