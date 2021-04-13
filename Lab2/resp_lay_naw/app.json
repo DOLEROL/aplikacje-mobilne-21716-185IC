@@ -1,0 +1,12 @@
+{
+  "name": "resp_lay_naw",
+  "displayName": "resp_lay_naw",
+  "expo": {
+    "name": "resp_lay_naw",
+    "slug": "resp_lay_naw",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
