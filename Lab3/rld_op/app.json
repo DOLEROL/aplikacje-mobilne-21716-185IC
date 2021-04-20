@@ -1,0 +1,12 @@
+{
+  "name": "rld_op",
+  "displayName": "rld_op",
+  "expo": {
+    "name": "rld_op",
+    "slug": "rld_op",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
