@@ -38,6 +38,7 @@
 ![Alt Text](pliki/apk/obr3.png)
 
 ### Trzecia strona: progres krokowy.
+#### Klikając przycisk `Next` lub `Previous` możemy przemieszczać się pomiędzy krokami.
 
 ![Alt Text](pliki/apk/obr4.png)
 
