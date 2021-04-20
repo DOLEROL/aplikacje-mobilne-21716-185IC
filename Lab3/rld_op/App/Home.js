@@ -31,14 +31,17 @@ sort(map);
 
 // filtrowanie danych (usuwanie powtarzających się egzemplarzy)
 const set = new Set();
-for (const val of map.values()) {
-  set.add(val);
+for (const value of map.values()) {
+  set.add(value);
 }
 
+// towrzenie tablicy
 var Data = new Array();
+// wprowadzanie wartości z obiektu set() do tablicy Data[]
 for (const val of set.values()) {
   Data.push(val);
 }
+// zmiana zawartości tablicy Data[], za pomocą funkcji map(), wprowadzanie biektów do tablicy Data[]
 Data = Data.map((value) => {
   return {
     id: `Data${value}`,
