@@ -28,7 +28,7 @@
 
 ![Alt Text](pliki/apk/obr1.png)
 
-### Druga strona: wyświetlony zostaje tekst którą można przewijać.
+### Druga strona: wyświetlony zostaje tekst który można przewijać.
 
 ![Alt Text](pliki/apk/obr2.png)
 
@@ -40,9 +40,12 @@
 
 #### Klikając przycisk `Press Here` wyskakuje okno z alertem.
 
-![Alt Text](pliki/apk/obr5.png)
+![Alt Text](pliki/apk/obr3.png)
 
 ### Ostatnia strona: wykorzystanie komponentu `Swipeable`.
+
+![Alt Text](pliki/apk/obr5.png)
+
 ### Przesuwając kompnent w prawo pojawi się napis `keep pulling!`.
 
 ![Alt Text](pliki/apk/obr6.png)
