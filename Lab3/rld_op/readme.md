@@ -1,4 +1,4 @@
-# aplikacje-mobilne-21716-185IC Lab2 - responsywne layouty + nawigacja
+# aplikacje-mobilne-21716-185IC Lab3 - renderowanie listy danych + obsługa progresu
 
 ## kod programu
 
