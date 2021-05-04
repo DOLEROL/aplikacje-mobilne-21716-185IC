@@ -34,6 +34,7 @@ export default StyleSheet.create({
     Title: {
       fontSize: 32,
       color: 'white',
+      textAlign: 'center',
     },
     textStyle: {
       fontFamily: 'Times New Roman',
