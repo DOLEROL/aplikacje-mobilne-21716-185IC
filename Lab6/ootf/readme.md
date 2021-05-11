@@ -36,26 +36,26 @@
 ## przykład działania aplikacji
 ### Strona startowa: Wyświetlone zostają 2 obrazki za pomocą 2 różnych metod.
 
-![Alt Text](pliki/app/obr1.png)
+![Alt Text](pliki/app/obr1.jpg)
 
 ### Druga strona: Zmiana rozmiaru obrazka, za pomocą suwaka.
 
-![Alt Text](pliki/app/obr2.png)
+![Alt Text](pliki/app/obr2.jpg)
 
-![Alt Text](pliki/app/obr3.png)
+![Alt Text](pliki/app/obr3.jpg)
 
 ### Trzecia strona: 'leniwe' ładowanie obrazka i ikon (nie są zbyt ciężkie, nie dało się uchwycić procesu ładowania).
 
-![Alt Text](pliki/app/obr4.png)
+![Alt Text](pliki/app/obr4.jpg)
 
 ### Czwarta strona: Urządzenie posiada połączenie, zostaje wyświetlony odpowiedni komunikat.
 
-![Alt Text](pliki/app/obr4.png)
+![Alt Text](pliki/app/obr5.jpg)
 
 ### Piąta strona: Wprowadzenie tekstu do input'a i wciśnięcie przycisku `OK` spowoduje przechowanie tekstu, wciśnięcie przcisku `PRESS` spowoduje wyświetlenie przechowywanego tekstu.
 
-![Alt Text](pliki/app/obr4.png)
+![Alt Text](pliki/app/obr6.jpg)
 
 ### Ostatnia strona: W zależności od stanu połączenia, zostanie wyświetlona odpowiednia treść.
 
-![Alt Text](pliki/app/obr4.png)
+![Alt Text](pliki/app/obr7.jpg)
