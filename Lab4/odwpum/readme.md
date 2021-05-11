@@ -31,30 +31,30 @@
 ## przykład działania aplikacji
 ### Strona startowa: Dane wprowadzone do `TextInput` są automatycznie wyświetlane poniżej.
 
-![Alt Text](pliki/apk/obr1.png)
+![Alt Text](pliki/apk/obr1.jpg)
 
 ### Druga strona: Na androidzie komponent `Picker` nie zadziałał tak jak powinien. :(
 
-![Alt Text](pliki/apk/obr2.png)
+![Alt Text](pliki/apk/obr2.jpg)
 
 ### Trzecia strona: Po przesunięciu `Switcha` pojawia się `Modal` z pseudolosową liczą.
 
-![Alt Text](pliki/apk/obr3.png)
+![Alt Text](pliki/apk/obr3.jpgg)
 
-![Alt Text](pliki/apk/obr4.png)
+![Alt Text](pliki/apk/obr4.jpg)
 
 ### Czwarta strona: Po wciśnięciu przycisku `Wyświetl datę` oraz `Wyświetl godzinę` wyskakują DataTimePiker'y które można dowolnie ustawić, następnie klikając `wyświetl termin` wyskoczy alert z wcześniej ustawionymi datami.
 
-![Alt Text](pliki/apk/obr5.1.png)
+![Alt Text](pliki/apk/obr5.1.jpg)
 
-![Alt Text](pliki/apk/obr5.png)
+![Alt Text](pliki/apk/obr5.jpg)
 
-![Alt Text](pliki/apk/obr6.png)
+![Alt Text](pliki/apk/obr6.jpg)
 
-![Alt Text](pliki/apk/obr7.png)
+![Alt Text](pliki/apk/obr7.jpg)
 
 ### Piąta strona: Po wciśnięciu dowolnego przycisku wyskoczy powiadomienie, dla każdego przycisku pojawi się w innym miejscu, czas wyświtlania dla każdego powiadomienia jest taki sam. Można ustawić jedą z dwuch długości short lub long.
 
-![Alt Text](pliki/apk/obr8.png)
+![Alt Text](pliki/apk/obr8.jpg)
 
-![Alt Text](pliki/apk/obr9.png)
+![Alt Text](pliki/apk/obr9.jpg)
