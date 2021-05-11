@@ -39,7 +39,7 @@
 
 ### Trzecia strona: Po przesunięciu `Switcha` pojawia się `Modal` z pseudolosową liczą.
 
-![Alt Text](pliki/apk/obr3.jpgg)
+![Alt Text](pliki/apk/obr3.jpg)
 
 ![Alt Text](pliki/apk/obr4.jpg)
 
