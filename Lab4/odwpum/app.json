@@ -1,0 +1,12 @@
+{
+  "name": "odwpum",
+  "displayName": "odwpum",
+  "expo": {
+    "name": "odwpum",
+    "slug": "odwpum",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
