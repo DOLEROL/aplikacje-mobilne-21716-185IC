@@ -22,7 +22,7 @@ const buttonTextStyle = {
   fontWeight: 'bold'
 };
 
-onSubmitSteps = () => Alert.alert(
+const onSubmitSteps = () => Alert.alert(
   "Alert",
   "🎉🎉 🥳 🎉🎉",
   [

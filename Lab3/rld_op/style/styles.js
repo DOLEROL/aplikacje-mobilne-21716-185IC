@@ -37,12 +37,12 @@ export default StyleSheet.create({
       textAlign: 'center',
     },
     textStyle: {
-      fontFamily: 'Times New Roman',
+     // fontFamily: 'Times New Roman',
       color: 'rgb(255, 255, 255)',
     },
     // Text styles
     baseText:{
-      fontFamily: "Cochin",
+     // fontFamily: "Cochin",
       fontSize: 15,
     },
     titleText: {
