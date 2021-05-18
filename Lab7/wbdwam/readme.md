@@ -35,15 +35,15 @@
 
 ![Alt Text](pliki/apk/obr1.png)
 
+![Alt Text](pliki/apk/obr2.png)
+
 ### Druga strona:
 
-![Alt Text](pliki/apk/obr2.png)
+![Alt Text](pliki/apk/obr4.png)
 
 ![Alt Text](pliki/apk/obr3.png)
 
 ### Trzecia strona: 
-
-![Alt Text](pliki/apk/obr4.png)
 
 ![Alt Text](pliki/apk/obr5.png)
 
