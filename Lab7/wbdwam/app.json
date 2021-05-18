@@ -1,0 +1,12 @@
+{
+  "name": "wbdwam",
+  "displayName": "wbdwam",
+  "expo": {
+    "name": "wbdwam",
+    "slug": "wbdwam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
