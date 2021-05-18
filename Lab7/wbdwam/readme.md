@@ -37,7 +37,7 @@
 
 ### Druga strona:
 
-![Alt Text](pliki/apk/obr2.png
+![Alt Text](pliki/apk/obr2.png)
 
 ![Alt Text](pliki/apk/obr3.png)
 
