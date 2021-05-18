@@ -35,15 +35,23 @@
 
 ![Alt Text](pliki/apk/obr1.png)
 
+### Dodanie zakupów do listy
+
 ![Alt Text](pliki/apk/obr2.png)
 
-### Druga strona:
+### Druga strona: Wyświetlenie zakupów na liście do zrobienia
 
 ![Alt Text](pliki/apk/obr4.png)
 
+### Oznaczenie zakupów jako zrobione
+
 ![Alt Text](pliki/apk/obr3.png)
 
-### Trzecia strona: 
+### Trzecia strona: Wyświetlenie zakupów na liście zrobionych
 
 ![Alt Text](pliki/apk/obr5.png)
+
+### Usunięcie zakupów z listy. W przypadku braku danych do wyświetlenia napis `Zrobione` równierz nie jest wyświetlany.
+
+![Alt Text](pliki/apk/obr6.png)
 
